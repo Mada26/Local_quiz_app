@@ -1,5 +1,5 @@
 # Local_quiz_app
-Local cusmomizable quizz app
+Local cusmomizable quiz app
 
 To insert your own questions edit the Json file. 
   In the "question" filed insert your question.
